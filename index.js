@@ -32,7 +32,7 @@ const Columns = styled.div`
 
 const ButtonWrapper = styled.div`
   button {
-    margin-right: 40px;
+    margin-right: 20px;
   }
 
 `
